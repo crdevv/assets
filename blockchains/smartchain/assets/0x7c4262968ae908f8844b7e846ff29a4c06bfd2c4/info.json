@@ -1,0 +1,11 @@
+{
+    "name": "Gamify Token",
+    "type": "BEP20",
+    "symbol": "GMF",
+    "decimals": 9,
+    "website": "https://www.gamifytoken.com/",
+    "description": "Gamify is a DeFi solution for in-game transactions and payments.",
+    "explorer": "https://bscscan.com/token/0x7c4262968ae908f8844b7e846ff29a4c06bfd2c4",
+    "status": "active",
+    "id": "0x7c4262968ae908f8844b7e846ff29a4c06bfd2c4"
+}
